@@ -7,4 +7,4 @@ The operating environment for BAGF uses an RTX 4090D GPU(24 GB) and an 18 vCPU A
 * PyTorch 1.12.1+cu113
 * PyTorch Geometric 2.5.2
 ## Reproducibility
-
+The results can be reproduced using the following my_5fold.py script, and the following my_5fold-predict.py script is used to train the BAGF model n times and generate a ranked list of predicted driver genes.
