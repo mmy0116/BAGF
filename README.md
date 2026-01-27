@@ -6,3 +6,5 @@ The operating environment for BAGF uses an RTX 4090D GPU(24 GB) and an 18 vCPU A
 * Python 3.8
 * PyTorch 1.12.1+cu113
 * PyTorch Geometric 2.5.2
+## Reproducibility
+
